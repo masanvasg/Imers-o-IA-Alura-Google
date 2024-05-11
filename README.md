@@ -1,1 +1,1 @@
-# Imers-o-IA-Alura-Google
+Este projeto é na verdade uma ideia que apresentei para um professore de programação e alguns alunos da minha escola, como forma de podermos apresentar uma forma de cada um na sua individualidade poder contribuir com uma pequena ação para sustentabilidade do nosso planeta. 
